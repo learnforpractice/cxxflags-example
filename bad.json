@@ -1,0 +1,8 @@
+{
+	"inherits": ["wasm"],
+	"cflags": [
+		"-std=c++17"
+    ],
+	"cxxflags": [
+	]
+}
